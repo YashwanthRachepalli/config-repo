@@ -59,6 +59,8 @@ kafka:
 ams:
   security:
     enabled: true
+  monitoring:
+    enabled: true
 
 jwt:
   auth:
